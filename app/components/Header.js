@@ -13,6 +13,7 @@ const Header = () => {
           <Link href={"/dogs"}>dogs</Link>
           <Link href={"/posts"}>posts</Link>
           <Link href={"/todos"}>todos</Link>
+          <Link href={"/users"}>users</Link>
         </li>
       </nav>
     </div>
